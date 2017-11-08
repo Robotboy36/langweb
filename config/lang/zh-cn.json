@@ -1,0 +1,9 @@
+{
+    "title": "中文网 - 多语言网站示例",
+    "body_title": "这是一个神奇的测试",
+    "summary": "人有多大胆，地有多大产",
+    "lang-zh": "中文网",
+    "lang-en": "英文网",
+    "lang-zh-url": "../zh-cn/",
+    "lang-en-url": "../en-us/"
+}
